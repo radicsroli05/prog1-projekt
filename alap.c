@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
             return 0;
         } 
         else if (strcmp(argv[i], "-v") == 0 || strcmp(argv[i], "--version") == 0) {
-            printf("alap v0.1.9\n");
+            printf("alap v0.1\n");
             return 0;
         } 
         else if (strcmp(argv[i], "--stdout") == 0) {
